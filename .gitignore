@@ -6,4 +6,3 @@ node_modules/
 ios/
 android/
 .env*.local
-docs/PROPOSAL*.md
