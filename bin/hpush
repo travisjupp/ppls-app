@@ -1,5 +1,5 @@
 #!/bin/bash
-# HALA Push Auditor: Ensures Inside-Out Synchronization
+# PPLS APP Push Auditor: Ensures Inside-Out Synchronization
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
@@ -8,7 +8,7 @@ NC='\033[0m'
 
 SUBMODULE_PATH="docs/internal"
 
-echo -e "${YELLOW}--- HALA Push Auditor ---${NC}"
+echo -e "${YELLOW}--- PPLS APP Push Auditor ---${NC}"
 
 # 1. Check for uncommitted changes in Internal
 if [[ -n $(git -C "$SUBMODULE_PATH" status --porcelain) ]]; then
