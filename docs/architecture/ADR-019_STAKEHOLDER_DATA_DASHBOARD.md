@@ -8,7 +8,7 @@ To secure long-term sustainability, HALA needs quantifiable proof of impact. Man
 ## Decision
 We will architect a **Server-Side Aggregation Layer** that:
 1. **Aggregates:** Anonymized events (Searches, Calculator results, Call-clicks).
-2. **Visualizes:** A private, authenticated Web Portal (React/Firebase) for HALA Leadership.
+2. **Visualizes:** A private, authenticated Web Portal -- Impact Dashboard, Hunger Heatmap.
 3. **Exports:** Schema-ready CSV/PDF assets for Grant compliance.
 
 ## Logic
