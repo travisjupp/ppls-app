@@ -1,12 +1,12 @@
-# The Peoples App: Digital Transformation for HALA
+# The Peoples App: Digital Transformation for The People's Guide
 
 ## 1. Our Mission
 Project Identity
-- **Web:** [peoplesapp.la](https://peoplesapp.la) 
-- **Mission:** Activating 20 years of HALA research into a mobile ecosystem.
+- **Web:** [peoplesapp.org](https://peoplesapp.org) 
+- **Mission:** Powering a mobile ecosystem with 20 years of People's Guide research.
 
 ## 2. Strategic Activation (The Phase-0 Pivot)
-This project represents the transition from static print assets to a resilient, data-driven infrastructure. We recognize HALA’s significant annual impact and the vital role of "The Peoples Guide." Our objective is to protect that legacy by ensuring food security information is:
+This project represents the transition from static print assets to a resilient, data-driven infrastructure. We recognize HALA’s significant annual impact and the vital role of "The People's Guide." Our objective is to protect that legacy by ensuring food security information is:
 - **Instant:** Searchable in milliseconds via a modern mobile interface.
 - **Always Available:** Accessible in "data deserts" via offline-first architecture.
 - **Sustainable:** Maintained via a low-overhead, AI-augmented data pipeline.
@@ -24,7 +24,7 @@ To maintain synchronization between the public application and private strategy,
 You **must** clone the repository recursively to "hydrate" the internal documentation and engine:
 ```bash
 # 1. Clone the repository recursively
-git clone --recursive git@github.com:travisjupp/ppls-app.git
+git clone --recursive git@github.com:The-Peoples-App/ppls-app.git
 cd ppls-app
 
 # 2. Permissions: Make the HALA toolset executable
